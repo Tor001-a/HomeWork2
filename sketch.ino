@@ -45,6 +45,7 @@ else if(input == "traffic")
  delay(1000);
  digitalWrite(led2, LOW);
  
+ digitalWrite(led1, HIGH);
   }
 }
 }
